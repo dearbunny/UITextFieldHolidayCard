@@ -13,6 +13,9 @@
 		180983932673BBA500244FC4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180983912673BBA500244FC4 /* Main.storyboard */; };
 		180983952673BBA600244FC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180983942673BBA600244FC4 /* Assets.xcassets */; };
 		180983982673BBA600244FC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180983962673BBA600244FC4 /* LaunchScreen.storyboard */; };
+		180983A02673E4C800244FC4 /* Hannotate.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 1809839F2673E4C800244FC4 /* Hannotate.ttc */; };
+		180983A22673EC7000244FC4 /* DFWaWaStd-W5.otf in Resources */ = {isa = PBXBuildFile; fileRef = 180983A12673EC7000244FC4 /* DFWaWaStd-W5.otf */; };
+		180983A42673ED5800244FC4 /* DFWaWaStd-W7.otf in Resources */ = {isa = PBXBuildFile; fileRef = 180983A32673ED5800244FC4 /* DFWaWaStd-W7.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		180983942673BBA600244FC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		180983972673BBA600244FC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		180983992673BBA600244FC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1809839F2673E4C800244FC4 /* Hannotate.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hannotate.ttc; sourceTree = "<group>"; };
+		180983A12673EC7000244FC4 /* DFWaWaStd-W5.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DFWaWaStd-W5.otf"; sourceTree = "<group>"; };
+		180983A32673ED5800244FC4 /* DFWaWaStd-W7.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DFWaWaStd-W7.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				180983942673BBA600244FC4 /* Assets.xcassets */,
 				180983962673BBA600244FC4 /* LaunchScreen.storyboard */,
 				180983992673BBA600244FC4 /* Info.plist */,
+				1809839F2673E4C800244FC4 /* Hannotate.ttc */,
+				180983A12673EC7000244FC4 /* DFWaWaStd-W5.otf */,
+				180983A32673ED5800244FC4 /* DFWaWaStd-W7.otf */,
 			);
 			path = "UITextField文字縮放";
 			sourceTree = "<group>";
@@ -124,7 +133,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180983A02673E4C800244FC4 /* Hannotate.ttc in Resources */,
 				180983982673BBA600244FC4 /* LaunchScreen.storyboard in Resources */,
+				180983A22673EC7000244FC4 /* DFWaWaStd-W5.otf in Resources */,
+				180983A42673ED5800244FC4 /* DFWaWaStd-W7.otf in Resources */,
 				180983952673BBA600244FC4 /* Assets.xcassets in Resources */,
 				180983932673BBA500244FC4 /* Main.storyboard in Resources */,
 			);
